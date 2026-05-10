@@ -12,7 +12,6 @@ It combines:
 ## Table of Contents
 
 - [Features](#features)
-- [UI Walkthrough](#ui-walkthrough)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -206,26 +205,6 @@ It combines:
   - graph for DL/UL/active torrents,
   - visual alt-mode background bands,
   - refresh and clear history controls.
-
-## UI Walkthrough
-
-1. Review session health and torrent activity at a glance.
-
-   ![Review session health](docs/images/ui-01-overview.png)
-
-   Overview of torrent table, status filters, and live transfer context.
-
-2. Inspect content/details workflow for a selected torrent.
-
-   ![Inspect content and details](docs/images/ui-02-workflow.png)
-
-   Workflow state showing content cache and detailed transfer metadata.
-
-3. Execute edit and action controls from detail tabs.
-
-   ![Execute edit and action controls](docs/images/ui-03-details.png)
-
-   Action-focused detail tab state for updating torrent settings safely.
 
 ## Requirements
 
