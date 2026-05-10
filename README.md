@@ -12,6 +12,7 @@ It combines:
 ## Table of Contents
 
 - [Features](#features)
+- [User Guide](#user-guide)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -205,6 +206,12 @@ It combines:
   - graph for DL/UL/active torrents,
   - visual alt-mode background bands,
   - refresh and clear history controls.
+
+## User Guide
+
+Start with the [user guide](docs/user-guide.md) for first-run setup, qBittorrent
+connection details, daily torrent-management workflows, safety notes, and
+troubleshooting.
 
 ## Requirements
 
@@ -464,6 +471,8 @@ qbiremo-enhanced/
 |       |-- run_app_gui.pyw              # Launch GUI without console window
 |       |-- run_tests.py                 # Run tests via hatch run test
 |-- docs/
+|   |-- README.md
+|   |-- user-guide.md
 |   `-- architecture/
 |       `-- MEMORY_SPEC.md               # Architecture reference spec
 |-- tests/
