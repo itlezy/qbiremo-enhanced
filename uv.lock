@@ -132,7 +132,7 @@ dependencies = [
 requires-dist = [
     { name = "pyside6", specifier = ">=6.10.2" },
     { name = "qbittorrent-api", specifier = ">=2025.11.1" },
-    { name = "threep-commons", git = "https://github.com/Threepwood-7/threep-commons?rev=v0.3.1" },
+    { name = "threep-commons", git = "https://github.com/threepwood-py-labs/threep-commons?rev=v0.3.1" },
 ]
 
 [[package]]
@@ -179,7 +179,7 @@ wheels = [
 [[package]]
 name = "threep-commons"
 version = "0.3.1"
-source = { git = "https://github.com/Threepwood-7/threep-commons?rev=v0.3.1#4cd5db771b70ea06d43b3b4db68d15d462b6880d" }
+source = { git = "https://github.com/threepwood-py-labs/threep-commons?rev=v0.3.1#4cd5db771b70ea06d43b3b4db68d15d462b6880d" }
 dependencies = [
     { name = "pyside6" },
 ]
