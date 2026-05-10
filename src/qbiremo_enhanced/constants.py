@@ -7,7 +7,7 @@ from threep_commons.app_identity import AppIdentity
 SETTINGS_ORG_NAME = "ThreepSoftwz"
 SETTINGS_APP_NAME = "qbiremo_enhanced"
 APP_DISPLAY_NAME = "qbiremo-enhanced"
-APP_VERSION = "0.1.0"
+APP_VERSION = "0.1.1"
 DEFAULT_LOG_FILENAME = "qbiremo_enhanced.log"
 DEFAULT_LOG_MAX_BYTES = 1_048_576
 DEFAULT_LOG_BACKUP_COUNT = 3

@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier.
 _src_path: "../_py_template"
-_commit: "v1.7.4-7-g4bc5d2f"
+_commit: "v1.7.4-8-g9e8a3f8"
 project_name: "qbiremo-enhanced"
 project_kind: "qt_app"
 package_name: "qbiremo_enhanced"
@@ -8,10 +8,9 @@ description: "Advanced qBittorrent GUI client built with PySide6."
 author_name: "MT0z"
 author_email: "mt0z1@pir0z.yxz"
 github_username: "threepwood-py-labs"
-project_version: "0.1.0"
+project_version: "0.1.1"
 runtime_dependencies:
 
   - "PySide6>=6.10.2"
 
   - "qbittorrent-api>=2025.11.1"
-
